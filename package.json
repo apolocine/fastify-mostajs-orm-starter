@@ -14,7 +14,7 @@
     "node": ">=18.18.0"
   },
   "dependencies": {
-    "@mostajs/orm": "^2.5.1",
+    "@mostajs/orm": "^2.5.3",
     "fastify": "^5.0.0",
     "sql.js": "^1.13.0"
   },
